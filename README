@@ -1,1 +1,6 @@
-This is my capstone project for my Masters in Data Science at Eastern University.  It is a work in progress.
+This is my capstone project for my Masters in Data Science at Eastern University.  
+To read a summary of the project, view graphs, and explore the model by entering your own values, visit my website https://rebeccaveng.pythonanywhere.com
+
+The purpose of this project was to determine whether or not including paternal demographic features would improve the predictive ability of a MultiOutputClassifier
+RandomForestClassifier model and a MultiOutputRegressor RandomForestRegressor model when compared to models using maternal demographic features.  
+
